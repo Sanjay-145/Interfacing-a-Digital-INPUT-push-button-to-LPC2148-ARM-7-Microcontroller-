@@ -7,8 +7,6 @@ Date of experiment : 01/10/2022
 
 Ex. No. : 3
 
-Date: 01/10/2022
-
 ## Aim:
 To Interface a Digital input (push button) to LPC2148 ARM 7 and write a code to switch on and off an LED.
 
